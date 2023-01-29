@@ -1,0 +1,15 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "git.autofetch": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=88",
+        "--extend-ignore=E203"
+    ],
+    "editor.renderWhitespace": "all",
+    "python.autoComplete.extraPaths": [],
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "python.analysis.extraPaths": []
+}
